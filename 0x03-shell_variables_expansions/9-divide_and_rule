@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo $(($POXER / $DIVIDE))
+echo $(($POWER / $DIVIDE))
